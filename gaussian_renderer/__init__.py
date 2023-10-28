@@ -8,6 +8,8 @@
 #
 # For inquiries contact  george.drettakis@inria.fr
 #
+import sys
+sys.path.append("./gaussian_splatting")
 
 import torch
 import math
